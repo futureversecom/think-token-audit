@@ -1,0 +1,5 @@
+erc4626-tests/=lib/oz5/lib/erc4626-tests/
+ds-test/=lib/openzeppelin-contracts/lib/forge-std/lib/ds-test/src/
+forge-std/=lib/openzeppelin-contracts/lib/forge-std/src/
+@openzeppelin/=lib/openzeppelin-contracts/
+forge-std/=lib/forge-std
